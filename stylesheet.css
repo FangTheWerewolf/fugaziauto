@@ -3,6 +3,8 @@ html, body {
     background-color: darkgray;
 }
 
+
+
 h1 {
     text-align: center;
     font-size: 50px;
@@ -20,15 +22,21 @@ h2 {
 
 .login-box {
     border-style: solid;
-    float: right;
+    float: top;
     border-width: 5px;
     text-align: center;
     border-radius: 10%;
     border-color: gray;
     background-color: darkgrey;
+    z-index: 5;
 }
 
 header {
     justify-content: left;
     margin: 0;
+}
+
+.fugazi-auto-logo {
+    width: 160px;
+    height: 100px;
 }
