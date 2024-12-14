@@ -41,3 +41,7 @@ header {
     width: 160px;
     height: 100px;
 }
+
+.carNav {
+    border-style: solid
+}
