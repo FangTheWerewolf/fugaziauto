@@ -2,6 +2,10 @@ html, body {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     background-color: darkgray;
     background-image: url(jdmgrainy.webp);
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background
 }
 
 
@@ -43,5 +47,5 @@ header {
 }
 
 .carNav {
-    border-style: solid
+    border-style: solid;
 }
