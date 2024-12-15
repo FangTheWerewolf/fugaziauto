@@ -46,4 +46,17 @@ header {
 
 .carNav {
     border-style: solid;
+    text-align: center;
+}
+
+
+
+.navNav {
+    border-style: solid;
+    border-color: black;
+}
+
+.capuccinoLink {
+text-align: left;
+
 }
