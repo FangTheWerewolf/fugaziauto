@@ -2,11 +2,9 @@ html, body {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     background-color: darkgray;
     background-image: url(jdmgrainy.webp);
-    background-position: center;
-    background-size: 100%;
-    background-repeat: no-repeat;
-    background
-}
+    min-height:400px;
+    margin-top:0px;
+    margin-bottom:8px; }
 
 
 
