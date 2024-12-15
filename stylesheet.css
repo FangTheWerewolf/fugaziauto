@@ -45,18 +45,25 @@ header {
 }
 
 .carNav {
-    border-style: solid;
-    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
 }
-
-
 
 .navNav {
     border-style: solid;
     border-color: black;
 }
 
-.capuccinoLink {
-text-align: left;
+.cappuccinoLink{
+    text-align: left;
+    text-decoration: none;
+    color:black;
+}
 
+.mushroomLink {
+    text-align: right;
+    color:black;
+    text-decoration: none;
 }
