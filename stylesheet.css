@@ -71,5 +71,5 @@ header {
     background-image: url(staticGlitchGIF.gif);
     background-size: cover;
     background-repeat: no-repeat;
-    z-index: 5;
+    z-index: 1;
 }
