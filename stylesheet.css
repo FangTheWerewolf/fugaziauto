@@ -2,10 +2,9 @@ html, body {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     background-color: darkgray;
     background-image: url(jdmgrainy.webp);
-    min-height:400px;
-    margin-top:0px;
-    margin-bottom:8px; }
-
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 
 
 h1 {
@@ -66,4 +65,11 @@ header {
     text-align: right;
     color:black;
     text-decoration: none;
+}
+
+.grainGIF {
+    background-image: url(staticGlitchGIF.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    z-index: 5;
 }
