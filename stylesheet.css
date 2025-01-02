@@ -46,7 +46,6 @@ header {
     height: 100px;
     z-index: 0;
     display: inline;
-    float: left;
 }
 
 .carNav {
