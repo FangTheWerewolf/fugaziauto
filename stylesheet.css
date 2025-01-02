@@ -30,7 +30,8 @@ h2 {
     border-radius: 10%;
     border-color: gray;
     background-color: darkgrey;
-    z-index: 5;
+    z-index: -1;
+
 }
 
 header {
@@ -53,6 +54,8 @@ header {
 .navNav {
     border-style: solid;
     border-color: black;
+    float: right;
+    
 }
 
 .cappuccinoLink{
