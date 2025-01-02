@@ -4,6 +4,7 @@ html, body {
     background-image: url(jdmgrainy.webp);
     background-size: cover;
     background-repeat: no-repeat;
+    height: 100%;
 }
 
 
@@ -43,13 +44,14 @@ header {
 .fugazi-auto-logo {
     width: 160px;
     height: 100px;
+    z-index: 0;
+    display: inline;
+    float: left;
 }
 
 .carNav {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    width: 100%;
+    display: inline;
+    font-size: xx-large;
 }
 
 .navNav {
